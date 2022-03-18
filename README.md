@@ -2,7 +2,7 @@
 # Coursera Getting and Cleaning Data Course Project
 
 
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 This repo contians the scripts required in the course project for the course `Getting and Cleaning Data Course Project` in Coursera.
 
